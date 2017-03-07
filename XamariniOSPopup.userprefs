@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F64A1130-D4FC-45D2-BA5D-70F4EB5E58A9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamariniOSPopup/ViewController.cs">
+    <Files>
+      <File FileName="XamariniOSPopup/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamariniOSPopup/ViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.XamariniOSPopup PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53785F66-4F6E-4445-B0E6-E3856D84F8B8" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
